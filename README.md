@@ -11,7 +11,7 @@
 ### Youtube : https://www.youtube.com/watch?v=xYMO2Fh-9Cw
 
 ## 📖 Notion & WireFrame & API
-### Notion : https://picturesque-fifth-30a.notion.site/Instagram-Clone-65db16336d68488395757dca39c89103
+https://picturesque-fifth-30a.notion.site/Instagram-Clone-65db16336d68488395757dca39c89103
 <br/><br/><br/>
 
 
