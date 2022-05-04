@@ -8,9 +8,9 @@
 
 
 ## 🎥 Together Logo & Video
-
 ### Youtube : https://www.youtube.com/watch?v=xYMO2Fh-9Cw
 
+## 📖 Notion & WireFrame & API
 ### Notion : https://picturesque-fifth-30a.notion.site/Instagram-Clone-65db16336d68488395757dca39c89103
 <br/><br/><br/>
 
@@ -45,19 +45,11 @@
 
 
 ## 🛠 Tech Stack
-**BackEnd Tech Stack**
-- <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
-
-
-
 **FrontEnd Tech Stack**
-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-
-
-## 📖 Notion & WireFrame & API
-**Project Note**
-- 
-
-
-
-## ✨ 핵심기능
+<img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
